@@ -10,6 +10,8 @@ const progressBar = document.getElementById('progressBar');
 // The get favourites button element.
 const getFavouritesBtn = document.getElementById('getFavouritesBtn');
 
+const newVariable = "new variable";
+
 // Step 0: Store your API key here for reference and easy access.
 const API_KEY = '';
 

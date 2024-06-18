@@ -12195,6 +12195,7 @@ var infoDump = document.getElementById('infoDump');
 var progressBar = document.getElementById('progressBar');
 // The get favourites button element.
 var getFavouritesBtn = document.getElementById('getFavouritesBtn');
+var newVariable = "new variable";
 
 // Step 0: Store your API key here for reference and easy access.
 var API_KEY = '';
